@@ -1,7 +1,20 @@
+
 {
-  "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-concat": "^2.6.0",
-    "gulp-uglify": "^1.5.1"
-  }
+"name": "passy",
+"version": "v1.0",
+"description": "A jQuery plugin to rate and generate passwords",
+"main": "dist/jquery-passy.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/DentalEMR/passy.git"
+},
+"author": "",
+"license": "MIT",
+"bugs": {
+"url": "https://github.com/DentalEMR/passy.git/issues"
+},
+"homepage": "https://github.com/DentalEMR/passy.git#readme"
 }
