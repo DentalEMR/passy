@@ -1,7 +1,7 @@
 
 {
 "name": "passy",
-"version": "v1.0",
+"version": "1.0.0",
 "description": "A jQuery plugin to rate and generate passwords",
 "main": "dist/jquery-passy.js",
 "scripts": {
